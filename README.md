@@ -1,26 +1,52 @@
-# Futurama Banking API
+# 💳 Futurama Banking API
 
-A Spring Boot REST API for managing bank accounts and transactions including deposits, withdrawals, and transfers.
+## 📌 Description
+A Spring Boot REST API for managing bank accounts and financial transactions including deposits, withdrawals, and transfers.
 
-## Features
+---
 
-- Create account
-- Deposit money
-- Withdraw money
-- Transfer money between accounts
-- Transaction history tracking
-- RESTful API design
-- Layered architecture (Controller, Service, Repository)
+## 🚀 Features
+- Create bank accounts  
+- Deposit money  
+- Withdraw funds  
+- Transfer money between accounts  
+- Track transaction history  
+- RESTful API design  
+- Layered architecture (Controller, Service, Repository)  
 
-## Technologies Used
+---
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Maven
-- Postman
+## 🛠️ Tech Stack
+- Java  
+- Spring Boot  
+- Spring Data JPA  
+- Hibernate  
+- Maven  
+- Postman  
 
+---
+
+## 📸 Screenshots
+
+### 💰 Create Account Endpoint
+*(Add your Postman screenshot here)*
+
+### 📊 Transactions / Activity
+*(Add transaction screenshot here)*
+
+---
+
+## 📁 Project Structure
+- Controller layer (handles API requests)  
+- Service layer (business logic)  
+- Repository layer (database access)  
+
+---
+
+## ▶️ Running the Project
+
+```bash
+mvn spring-boot:run
 ## API Screenshots
 
 ### Create Account
