@@ -17,7 +17,7 @@ A Spring Boot REST API for managing bank accounts and transactions including dep
 - Java
 - Spring Boot
 - Spring Data JPA
-- Hibernate
+  - Hibernate   
 - Maven
 - Postman
 
