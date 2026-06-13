@@ -1,18 +1,26 @@
-# Futurama Banking API
+# 🏦 Futurama Banking API
 
-A Spring Boot REST API for managing bank accounts and transactions including deposits, withdrawals, and transfers.
+## 📌 Description
 
-## Features
+A Spring Boot REST API for managing bank accounts and financial transactions, including deposits, withdrawals, and transfers.
 
-- Create account
+This project demonstrates backend development skills such as RESTful API design, layered architecture, and transaction handling.
+
+---
+
+## 🚀 Features
+
+- Create bank accounts
 - Deposit money
-- Withdraw money
+- Withdraw funds
 - Transfer money between accounts
-- Transaction history tracking
+- Track transaction history
 - RESTful API design
 - Layered architecture (Controller, Service, Repository)
 
-## Technologies Used
+---
+
+## 🛠️ Tech Stack
 
 - Java
 - Spring Boot
@@ -21,16 +29,44 @@ A Spring Boot REST API for managing bank accounts and transactions including dep
 - Maven
 - Postman
 
-## API Screenshots
+---
 
-### Create Account
+## ▶️ Running the Project
 
+Start the application using:
+
+```bash
+mvn spring-boot:run
+```
+
+---
+
+## 📸 Screenshots
+
+### 🆕 Create Account Endpoint
 ![Create Account](screenshots/create-account.png)
 
-### Account Transactions
+### 💸 Withdraw and Deposit Operations
+![Withdraw and Deposit](screenshots/withdraw-and-deposit.png)
 
-![Transactions](screenshots/account-transactions.png)
-
-### Project Structure
-
+### 🏗️ Project Structure
 ![Project Structure](screenshots/project-structure.png)
+
+---
+
+## 📚 What I Learned
+
+Through this project I improved my understanding of:
+
+- REST API development
+- Transaction handling
+- Spring Boot architecture
+- Layered backend design
+- Database persistence with JPA/Hibernate
+- API testing with Postman
+
+---
+
+## 👨‍💻 Author
+
+Peter-c-dev
